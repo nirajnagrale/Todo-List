@@ -1,0 +1,37 @@
+*{
+    background-color:yellow;
+}
+.heading{
+    margin-left: 40vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #003366;
+}
+.container{
+    margin:20%;
+}
+
+ul{
+    list-style-type: none;
+}
+p{
+    background-color: lightgray;
+}
+ul li{
+    color:black;
+    background-color: lightblue;
+    font-family: Arial;
+    font-weight: bold;
+    margin:20px;
+    text-decoration: none;
+}
+input{
+    word-break: break-all;
+    height: auto;
+    margin-left:20%;
+    background-color: white;
+}
+
+button{
+    border-radius: 10%;
+    background-color: white;
+}
